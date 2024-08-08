@@ -1,0 +1,15 @@
+2024-07-01 16:03:11,541 - root - INFO - Experiment directory created at ./results/017-F16S4-WebVideoImageStage1
+2024-07-01 16:03:33,540 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 16:03:33,828 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/diffusion_pytorch_model.bin HTTP/1.1" 302 0
+2024-07-01 16:03:33,899 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 16:03:33,953 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 16:03:34,490 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 16:03:34,538 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/vocab.json HTTP/1.1" 200 0
+2024-07-01 16:03:34,657 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 16:03:34,708 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 16:03:34,716 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 16:03:34,780 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-01 16:03:37,596 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 16:03:37,644 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 16:03:37,647 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 16:03:37,703 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0

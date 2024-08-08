@@ -1,0 +1,17 @@
+2024-07-17 21:45:19,180 - root - INFO - Experiment directory created at ./results/040-F16S4-WebVideoImageStage1
+2024-07-17 21:46:26,737 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:46:27,056 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/diffusion_pytorch_model.bin HTTP/1.1" 302 0
+2024-07-17 21:46:27,066 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:46:27,124 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-17 21:46:29,220 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:46:29,269 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/vocab.json HTTP/1.1" 200 0
+2024-07-17 21:46:29,397 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:46:29,449 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-17 21:46:29,454 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:46:29,524 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-17 21:46:51,527 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:46:51,603 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-17 21:46:51,610 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:46:51,750 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-17 21:47:03,525 - root - INFO - Model Parameters: 712,179,204
+2024-07-17 21:47:04,240 - root - INFO - Dataset contains 5 videos.

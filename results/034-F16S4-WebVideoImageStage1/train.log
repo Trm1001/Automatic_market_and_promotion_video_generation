@@ -1,0 +1,78 @@
+2024-07-17 21:07:04,791 - root - INFO - Experiment directory created at ./results/034-F16S4-WebVideoImageStage1
+2024-07-17 21:08:17,041 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:08:17,757 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/diffusion_pytorch_model.bin HTTP/1.1" 302 0
+2024-07-17 21:08:17,767 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:08:17,849 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-17 21:08:21,500 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:08:21,573 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/vocab.json HTTP/1.1" 200 0
+2024-07-17 21:08:21,654 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:08:21,727 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-17 21:08:21,734 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:08:21,802 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-17 21:08:52,954 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:08:53,083 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-17 21:08:53,092 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:08:53,163 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-17 21:09:06,100 - root - INFO - Model Parameters: 1,042,210,564
+2024-07-17 21:09:06,916 - root - INFO - Dataset contains 5 videos.
+2024-07-17 21:09:09,772 - root - INFO - Starting Epoch 1/5, remaining_epochs:4
+2024-07-17 21:09:11,311 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:11,311 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:11,320 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:11,320 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:20,861 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:20,868 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:21,461 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:21,470 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:23,161 - root - INFO - Processing batch 1 of epoch 1
+2024-07-17 21:09:23,291 - root - INFO - Data loaded and moved to device
+2024-07-17 21:09:24,266 - root - ERROR - An error occurred at batch 1 of epoch 1: CUDA out of memory. Tried to allocate 1024.00 MiB. GPU 
+2024-07-17 21:09:24,410 - root - INFO - Starting Epoch 2/5, remaining_epochs:3
+2024-07-17 21:09:25,718 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:25,718 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:25,720 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:25,720 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:28,967 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:28,968 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:29,022 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:29,023 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:29,263 - root - INFO - Processing batch 1 of epoch 2
+2024-07-17 21:09:29,306 - root - INFO - Data loaded and moved to device
+2024-07-17 21:09:30,064 - root - ERROR - An error occurred at batch 1 of epoch 2: CUDA out of memory. Tried to allocate 1024.00 MiB. GPU 
+2024-07-17 21:09:30,097 - root - INFO - Starting Epoch 3/5, remaining_epochs:2
+2024-07-17 21:09:30,772 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:30,772 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:30,916 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:30,917 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:31,769 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:31,769 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:32,066 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:32,066 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:32,495 - root - INFO - Processing batch 1 of epoch 3
+2024-07-17 21:09:32,548 - root - INFO - Data loaded and moved to device
+2024-07-17 21:09:33,212 - root - ERROR - An error occurred at batch 1 of epoch 3: CUDA out of memory. Tried to allocate 1024.00 MiB. GPU 
+2024-07-17 21:09:33,253 - root - INFO - Starting Epoch 4/5, remaining_epochs:1
+2024-07-17 21:09:33,615 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:33,616 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:33,635 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:33,635 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:34,386 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:34,386 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:34,485 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:34,485 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:34,608 - root - INFO - Processing batch 1 of epoch 4
+2024-07-17 21:09:34,630 - root - INFO - Data loaded and moved to device
+2024-07-17 21:09:34,949 - root - ERROR - An error occurred at batch 1 of epoch 4: CUDA out of memory. Tried to allocate 1024.00 MiB. GPU 
+2024-07-17 21:09:34,985 - root - INFO - Starting Epoch 5/5, remaining_epochs:0
+2024-07-17 21:09:35,427 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:35,428 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:35,551 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:35,551 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:36,162 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:36,162 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:36,318 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:36,318 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:36,360 - root - INFO - Processing batch 1 of epoch 5
+2024-07-17 21:09:36,382 - root - INFO - Data loaded and moved to device
+2024-07-17 21:09:36,755 - root - ERROR - An error occurred at batch 1 of epoch 5: CUDA out of memory. Tried to allocate 1024.00 MiB. GPU 
+2024-07-17 21:09:36,808 - root - INFO - Done!

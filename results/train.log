@@ -1,0 +1,644 @@
+2024-07-01 14:52:54,867 - root - INFO - Training started...
+2024-07-01 14:52:54,867 - root - INFO - Training started...
+2024-07-01 14:52:54,867 - root - INFO - Training started...
+2024-07-01 14:52:54,867 - root - INFO - Training started...
+2024-07-01 14:52:54,868 - root - INFO - Training started...
+2024-07-01 14:52:54,868 - root - INFO - Training started...
+2024-07-01 14:52:54,871 - root - INFO - Training started...
+2024-07-01 14:52:54,872 - root - INFO - Training started...
+2024-07-01 14:52:54,884 - root - INFO - Experiment directory created at ./results/006-F16S4-WebVideoImageStage1
+2024-07-01 14:56:37,009 - root - INFO - Training started...
+2024-07-01 14:56:37,010 - root - INFO - Training started...
+2024-07-01 14:56:37,010 - root - INFO - Training started...
+2024-07-01 14:56:37,010 - root - INFO - Training started...
+2024-07-01 14:56:37,011 - root - INFO - Training started...
+2024-07-01 14:56:37,011 - root - INFO - Training started...
+2024-07-01 14:56:37,012 - root - INFO - Training started...
+2024-07-01 14:56:37,013 - root - INFO - Training started...
+2024-07-01 14:56:37,021 - root - INFO - Experiment directory created at ./results/007-F16S4-WebVideoImageStage1
+2024-07-01 14:57:49,647 - root - INFO - Training started...
+2024-07-01 14:57:49,648 - root - INFO - Training started...
+2024-07-01 14:57:49,649 - root - INFO - Training started...
+2024-07-01 14:57:49,656 - root - INFO - Experiment directory created at ./results/008-F16S4-WebVideoImageStage1
+2024-07-01 14:57:49,657 - root - INFO - Training started...
+2024-07-01 14:57:49,663 - root - INFO - Training started...
+2024-07-01 14:57:49,673 - root - INFO - Training started...
+2024-07-01 14:57:49,687 - root - INFO - Training started...
+2024-07-01 14:57:49,694 - root - INFO - Training started...
+2024-07-01 14:59:46,933 - root - INFO - Training started...
+2024-07-01 14:59:46,943 - root - INFO - Training started...
+2024-07-01 14:59:46,948 - root - INFO - Training started...
+2024-07-01 14:59:46,950 - root - INFO - Training started...
+2024-07-01 14:59:46,950 - root - INFO - Training started...
+2024-07-01 14:59:46,953 - root - INFO - Training started...
+2024-07-01 14:59:46,956 - root - INFO - Experiment directory created at ./results/009-F16S4-WebVideoImageStage1
+2024-07-01 14:59:46,960 - root - INFO - Training started...
+2024-07-01 14:59:46,965 - root - INFO - Training started...
+2024-07-01 15:01:10,083 - root - INFO - Training started...
+2024-07-01 15:01:10,083 - root - INFO - Training started...
+2024-07-01 15:01:10,083 - root - INFO - Training started...
+2024-07-01 15:01:10,083 - root - INFO - Training started...
+2024-07-01 15:01:10,083 - root - INFO - Training started...
+2024-07-01 15:01:10,084 - root - INFO - Training started...
+2024-07-01 15:01:10,084 - root - INFO - Training started...
+2024-07-01 15:01:10,084 - root - INFO - Training started...
+2024-07-01 15:02:51,574 - root - INFO - Training started...
+2024-07-01 15:02:51,574 - root - INFO - Training started...
+2024-07-01 15:02:51,584 - root - INFO - Experiment directory created at ./results/010-F16S4-WebVideoImageStage1
+2024-07-01 15:04:11,943 - root - INFO - Training started...
+2024-07-01 15:04:11,951 - root - INFO - Experiment directory created at ./results/011-F16S4-WebVideoImageStage1
+2024-07-01 15:09:56,902 - root - INFO - Training started...
+2024-07-01 15:09:56,914 - root - INFO - Experiment directory created at ./results/012-F16S4-WebVideoImageStage1
+2024-07-01 15:20:33,152 - root - INFO - Training started...
+2024-07-01 15:20:33,160 - root - INFO - Experiment directory created at ./results/013-F16S4-WebVideoImageStage1
+2024-07-01 15:33:25,923 - root - INFO - Training started...
+2024-07-01 15:33:25,933 - root - INFO - Experiment directory created at ./results/014-F16S4-WebVideoImageStage1
+2024-07-01 15:34:53,724 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 15:34:54,187 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/diffusion_pytorch_model.bin HTTP/1.1" 302 0
+2024-07-01 15:34:54,275 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 15:34:54,339 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 15:34:57,939 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 15:34:57,991 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/vocab.json HTTP/1.1" 200 0
+2024-07-01 15:34:58,113 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 15:34:58,209 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 15:34:58,218 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 15:34:58,274 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-01 15:35:17,695 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 15:35:17,774 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 15:35:17,789 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 15:35:17,846 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-01 15:48:35,394 - root - INFO - Training started...
+2024-07-01 15:48:35,407 - root - INFO - Experiment directory created at ./results/015-F16S4-WebVideoImageStage1
+2024-07-01 15:50:14,111 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 15:50:14,571 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/diffusion_pytorch_model.bin HTTP/1.1" 302 0
+2024-07-01 15:50:14,654 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 15:50:14,742 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 15:50:18,225 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 15:50:18,277 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/vocab.json HTTP/1.1" 200 0
+2024-07-01 15:50:18,432 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 15:50:18,484 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 15:50:18,498 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 15:50:18,552 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-01 15:50:40,734 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 15:50:40,809 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 15:50:40,812 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 15:50:40,866 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-01 15:54:09,772 - root - INFO - Training started...
+2024-07-01 15:54:09,783 - root - INFO - Experiment directory created at ./results/016-F16S4-WebVideoImageStage1
+2024-07-01 15:55:38,382 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 15:55:38,752 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/diffusion_pytorch_model.bin HTTP/1.1" 302 0
+2024-07-01 15:55:38,825 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 15:55:38,884 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 15:55:40,965 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 15:55:41,045 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/vocab.json HTTP/1.1" 200 0
+2024-07-01 15:55:41,289 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 15:55:41,350 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 15:55:41,362 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 15:55:41,427 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-01 15:56:34,580 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 15:56:34,700 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 15:56:34,710 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 15:56:34,762 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-01 16:03:11,530 - root - INFO - Training started...
+2024-07-01 16:03:11,541 - root - INFO - Experiment directory created at ./results/017-F16S4-WebVideoImageStage1
+2024-07-01 16:03:33,540 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 16:03:33,828 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/diffusion_pytorch_model.bin HTTP/1.1" 302 0
+2024-07-01 16:03:33,899 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 16:03:33,953 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 16:03:34,490 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 16:03:34,538 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/vocab.json HTTP/1.1" 200 0
+2024-07-01 16:03:34,657 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 16:03:34,708 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 16:03:34,716 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 16:03:34,780 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-01 16:03:37,596 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 16:03:37,644 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 16:03:37,647 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 16:03:37,703 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-01 16:04:54,581 - root - INFO - Training started...
+2024-07-01 16:04:54,589 - root - INFO - Experiment directory created at ./results/018-F16S4-WebVideoImageStage1
+2024-07-01 16:06:33,994 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 16:06:34,718 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/diffusion_pytorch_model.bin HTTP/1.1" 302 0
+2024-07-01 16:06:34,800 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 16:06:34,851 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 16:06:38,779 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 16:06:38,839 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/vocab.json HTTP/1.1" 200 0
+2024-07-01 16:06:38,963 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 16:06:39,019 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 16:06:39,029 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 16:06:39,092 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-01 16:07:15,109 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 16:07:15,329 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 16:07:15,341 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 16:07:15,401 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-01 16:24:02,913 - root - INFO - Training started...
+2024-07-01 16:24:02,921 - root - INFO - Experiment directory created at ./results/019-F16S4-WebVideoImageStage1
+2024-07-01 16:25:00,080 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 16:25:00,544 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/diffusion_pytorch_model.bin HTTP/1.1" 302 0
+2024-07-01 16:25:00,651 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 16:25:00,707 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 16:25:03,285 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 16:25:03,356 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/vocab.json HTTP/1.1" 200 0
+2024-07-01 16:25:03,584 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 16:25:03,638 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 16:25:03,649 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 16:25:03,727 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-01 16:25:42,406 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 16:25:42,497 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 16:25:42,505 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 16:25:42,560 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-01 16:30:35,664 - root - INFO - Training started...
+2024-07-01 16:30:35,673 - root - INFO - Experiment directory created at ./results/020-F16S4-WebVideoImageStage1
+2024-07-01 17:06:57,713 - root - INFO - Training started...
+2024-07-01 17:06:57,722 - root - INFO - Experiment directory created at ./results/021-F16S4-WebVideoImageStage1
+2024-07-01 17:08:43,748 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 17:08:44,210 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/diffusion_pytorch_model.bin HTTP/1.1" 302 0
+2024-07-01 17:08:44,284 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 17:08:44,346 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 17:08:47,642 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 17:08:47,698 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/vocab.json HTTP/1.1" 200 0
+2024-07-01 17:08:47,820 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 17:08:47,865 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 17:08:47,877 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 17:08:47,947 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-01 17:09:12,099 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 17:09:12,254 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 17:09:12,267 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 17:09:12,334 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-01 17:22:54,145 - root - INFO - Training started...
+2024-07-01 17:22:54,157 - root - INFO - Experiment directory created at ./results/022-F16S4-WebVideoImageStage1
+2024-07-01 17:24:03,430 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 17:24:03,991 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/diffusion_pytorch_model.bin HTTP/1.1" 302 0
+2024-07-01 17:24:04,126 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 17:24:04,199 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 17:24:09,619 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 17:24:09,702 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/vocab.json HTTP/1.1" 200 0
+2024-07-01 17:24:10,076 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 17:24:10,125 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 17:24:10,139 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 17:24:10,201 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-01 17:25:10,853 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 17:25:11,000 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 17:25:11,015 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 17:25:11,090 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-01 17:25:22,294 - root - INFO - Model Parameters: 1,042,210,564
+2024-07-01 17:34:04,184 - root - INFO - Training started...
+2024-07-01 17:34:04,193 - root - INFO - Experiment directory created at ./results/023-F16S4-WebVideoImageStage1
+2024-07-01 17:35:43,671 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 17:35:44,263 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/diffusion_pytorch_model.bin HTTP/1.1" 302 0
+2024-07-01 17:35:44,361 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 17:35:44,418 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 17:35:48,022 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 17:35:48,088 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/vocab.json HTTP/1.1" 200 0
+2024-07-01 17:35:48,509 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 17:35:48,570 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 17:35:48,593 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 17:35:48,682 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-01 17:36:16,165 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 17:36:16,279 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-01 17:36:16,289 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-01 17:36:16,341 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-01 17:36:28,875 - root - INFO - Model Parameters: 1,042,210,564
+2024-07-08 10:49:43,880 - root - INFO - Training started...
+2024-07-08 10:49:43,888 - root - INFO - Experiment directory created at ./results/024-F16S4-WebVideoImageStage1
+2024-07-08 10:51:02,882 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-08 10:51:03,737 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/diffusion_pytorch_model.bin HTTP/1.1" 302 0
+2024-07-08 10:51:04,499 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-08 10:51:04,567 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-08 10:51:08,915 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-08 10:51:08,990 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/vocab.json HTTP/1.1" 200 0
+2024-07-08 10:51:09,355 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-08 10:51:09,407 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-08 10:51:09,425 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-08 10:51:09,478 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-08 10:51:35,486 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-08 10:51:35,558 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-08 10:51:35,563 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-08 10:51:35,622 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-08 10:51:48,607 - root - INFO - Model Parameters: 1,042,210,564
+2024-07-08 10:51:49,288 - root - INFO - Dataset contains 5 videos.
+2024-07-08 10:59:57,710 - root - INFO - Training started...
+2024-07-08 10:59:57,720 - root - INFO - Experiment directory created at ./results/025-F16S4-WebVideoImageStage1
+2024-07-08 11:01:16,572 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-08 11:01:17,030 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/diffusion_pytorch_model.bin HTTP/1.1" 302 0
+2024-07-08 11:01:17,125 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-08 11:01:17,176 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-08 11:01:19,926 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-08 11:01:19,983 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/vocab.json HTTP/1.1" 200 0
+2024-07-08 11:01:20,118 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-08 11:01:20,190 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-08 11:01:20,203 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-08 11:01:20,267 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-08 11:01:45,434 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-08 11:01:45,524 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-08 11:01:45,530 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-08 11:01:45,608 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-08 11:02:00,738 - root - INFO - Model Parameters: 1,042,210,564
+2024-07-08 11:02:01,667 - root - INFO - Dataset contains 5 videos.
+2024-07-08 13:18:45,702 - root - INFO - Training started...
+2024-07-08 13:18:45,710 - root - INFO - Experiment directory created at ./results/026-F16S4-WebVideoImageStage1
+2024-07-08 13:20:56,468 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-08 13:20:56,838 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/diffusion_pytorch_model.bin HTTP/1.1" 302 0
+2024-07-08 13:20:56,848 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-08 13:20:56,917 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-08 13:20:59,935 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-08 13:21:00,008 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/vocab.json HTTP/1.1" 200 0
+2024-07-08 13:21:00,085 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-08 13:21:00,141 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-08 13:21:00,146 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-08 13:21:00,202 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-08 13:21:26,974 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-08 13:21:27,116 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-08 13:21:27,130 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-08 13:21:27,190 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-08 13:21:47,272 - root - INFO - Model Parameters: 1,042,210,564
+2024-07-08 13:21:48,772 - root - INFO - Dataset contains 5 videos.
+2024-07-11 14:05:27,464 - root - INFO - Training started...
+2024-07-11 14:05:27,475 - root - INFO - Experiment directory created at ./results/027-F16S4-WebVideoImageStage1
+2024-07-11 14:07:06,477 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-11 14:07:06,843 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/diffusion_pytorch_model.bin HTTP/1.1" 302 0
+2024-07-11 14:07:06,855 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-11 14:07:06,934 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-11 14:07:09,860 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-11 14:07:09,946 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/vocab.json HTTP/1.1" 200 0
+2024-07-11 14:07:10,015 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-11 14:07:10,071 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-11 14:07:10,077 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-11 14:07:10,125 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-11 14:07:37,058 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-11 14:07:37,246 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-11 14:07:37,270 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-11 14:07:37,338 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-11 14:08:09,788 - root - INFO - Model Parameters: 1,042,210,564
+2024-07-11 14:08:10,938 - root - INFO - Dataset contains 5 videos.
+2024-07-15 03:17:36,616 - root - INFO - Training started...
+2024-07-15 03:17:36,623 - root - INFO - Experiment directory created at ./results/028-F16S4-WebVideoImageStage1
+2024-07-15 03:19:15,910 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-15 03:19:16,579 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/diffusion_pytorch_model.bin HTTP/1.1" 302 0
+2024-07-15 03:19:16,611 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-15 03:19:16,660 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-15 03:19:19,598 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-15 03:19:19,663 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/vocab.json HTTP/1.1" 200 0
+2024-07-15 03:19:19,828 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-15 03:19:19,883 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-15 03:19:19,890 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-15 03:19:19,944 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-15 03:19:40,795 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-15 03:19:40,947 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-15 03:19:40,968 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-15 03:19:41,024 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-15 03:20:01,492 - root - INFO - Model Parameters: 1,042,210,564
+2024-07-15 03:20:02,218 - root - INFO - Dataset contains 5 videos.
+2024-07-15 12:06:23,118 - root - INFO - Training started...
+2024-07-15 12:06:23,127 - root - INFO - Experiment directory created at ./results/029-F16S4-WebVideoImageStage1
+2024-07-15 12:07:47,030 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-15 12:07:47,327 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/diffusion_pytorch_model.bin HTTP/1.1" 302 0
+2024-07-15 12:07:47,336 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-15 12:07:47,395 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-15 12:07:50,514 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-15 12:07:50,576 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/vocab.json HTTP/1.1" 200 0
+2024-07-15 12:07:50,647 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-15 12:07:50,704 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-15 12:07:50,710 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-15 12:07:50,760 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-15 12:08:21,361 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-15 12:08:21,491 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-15 12:08:21,512 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-15 12:08:21,602 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-15 12:08:48,682 - root - INFO - Model Parameters: 1,042,210,564
+2024-07-15 12:08:52,322 - root - INFO - Dataset contains 5 videos.
+2024-07-15 12:09:15,895 - root - INFO - Starting Epoch 1/5, remaining_epochs:4
+2024-07-15 12:23:10,325 - root - INFO - Training started...
+2024-07-15 12:23:10,338 - root - INFO - Experiment directory created at ./results/030-F16S4-WebVideoImageStage1
+2024-07-15 12:24:57,676 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-15 12:24:57,984 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/diffusion_pytorch_model.bin HTTP/1.1" 302 0
+2024-07-15 12:24:57,996 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-15 12:24:58,060 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-15 12:24:59,411 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-15 12:24:59,478 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/vocab.json HTTP/1.1" 200 0
+2024-07-15 12:24:59,679 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-15 12:24:59,733 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-15 12:24:59,738 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-15 12:24:59,801 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-15 12:25:28,346 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-15 12:25:28,507 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-15 12:25:28,528 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-15 12:25:28,590 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-15 12:25:58,998 - root - INFO - Model Parameters: 1,042,210,564
+2024-07-15 12:25:59,843 - root - INFO - Dataset contains 5 videos.
+2024-07-15 12:26:02,711 - root - INFO - Starting Epoch 1/5, remaining_epochs:4
+2024-07-15 12:28:48,640 - root - INFO - Training started...
+2024-07-15 12:28:48,652 - root - INFO - Experiment directory created at ./results/031-F16S4-WebVideoImageStage1
+2024-07-15 12:30:55,985 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-15 12:30:56,356 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/diffusion_pytorch_model.bin HTTP/1.1" 302 0
+2024-07-15 12:30:56,365 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-15 12:30:56,422 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-15 12:30:59,860 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-15 12:30:59,923 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/vocab.json HTTP/1.1" 200 0
+2024-07-15 12:30:59,996 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-15 12:31:00,069 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-15 12:31:00,074 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-15 12:31:00,154 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-15 12:31:33,582 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-15 12:31:33,716 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-15 12:31:33,730 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-15 12:31:33,781 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-15 12:31:54,371 - root - INFO - Model Parameters: 1,042,210,564
+2024-07-15 12:31:55,374 - root - INFO - Dataset contains 5 videos.
+2024-07-15 12:32:03,911 - root - INFO - Starting Epoch 1/5, remaining_epochs:4
+2024-07-17 20:44:17,418 - root - INFO - Training started...
+2024-07-17 20:44:17,424 - root - INFO - Experiment directory created at ./results/032-F16S4-WebVideoImageStage1
+2024-07-17 20:46:00,774 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 20:46:01,165 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/diffusion_pytorch_model.bin HTTP/1.1" 302 0
+2024-07-17 20:46:01,174 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 20:46:01,268 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-17 20:46:04,666 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 20:46:04,806 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/vocab.json HTTP/1.1" 200 0
+2024-07-17 20:46:04,878 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 20:46:04,950 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-17 20:46:04,955 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 20:46:05,062 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-17 20:46:27,330 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 20:46:27,460 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-17 20:46:27,467 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 20:46:27,567 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-17 20:46:36,283 - root - INFO - Model Parameters: 1,042,210,564
+2024-07-17 20:46:37,888 - root - INFO - Dataset contains 5 videos.
+2024-07-17 20:46:39,421 - root - INFO - Starting Epoch 1/5, remaining_epochs:4
+2024-07-17 20:46:53,537 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:46:53,543 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:46:53,537 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:46:53,552 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:01,271 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:01,273 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:01,311 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:01,312 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:02,508 - root - INFO - Processing batch 1 of epoch 1
+2024-07-17 20:47:02,559 - root - INFO - Data loaded and moved to device
+2024-07-17 20:47:03,631 - root - ERROR - An error occurred at batch 1 of epoch 1: CUDA out of memory. Tried to allocate 1024.00 MiB. GPU 
+2024-07-17 20:47:03,768 - root - INFO - Starting Epoch 2/5, remaining_epochs:3
+2024-07-17 20:47:04,265 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:04,265 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:04,424 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:04,424 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:05,113 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:05,113 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:05,499 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:05,499 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:05,960 - root - INFO - Processing batch 1 of epoch 2
+2024-07-17 20:47:06,015 - root - INFO - Data loaded and moved to device
+2024-07-17 20:47:06,083 - root - ERROR - An error occurred at batch 1 of epoch 2: CUDA error: out of memory
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1.
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-07-17 20:47:06,118 - root - INFO - Starting Epoch 3/5, remaining_epochs:2
+2024-07-17 20:47:06,525 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:06,525 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:06,702 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:06,703 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:07,508 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:07,508 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:07,825 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:07,825 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:08,338 - root - INFO - Processing batch 1 of epoch 3
+2024-07-17 20:47:08,360 - root - ERROR - An error occurred at batch 1 of epoch 3: CUDA error: out of memory
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1.
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-07-17 20:47:08,399 - root - INFO - Starting Epoch 4/5, remaining_epochs:1
+2024-07-17 20:47:08,778 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:08,778 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:08,799 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:08,799 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:09,654 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:09,654 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:09,766 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:09,767 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:10,059 - root - INFO - Processing batch 1 of epoch 4
+2024-07-17 20:47:10,070 - root - ERROR - An error occurred at batch 1 of epoch 4: CUDA error: out of memory
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1.
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-07-17 20:47:10,187 - root - INFO - Starting Epoch 5/5, remaining_epochs:0
+2024-07-17 20:47:10,704 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:10,705 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:10,868 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:10,869 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:11,518 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:11,518 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:11,776 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:11,776 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:11,823 - root - INFO - Processing batch 1 of epoch 5
+2024-07-17 20:47:11,834 - root - ERROR - An error occurred at batch 1 of epoch 5: CUDA error: out of memory
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1.
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-07-17 20:47:12,091 - root - INFO - Done!
+2024-07-17 20:56:02,473 - root - INFO - Training started...
+2024-07-17 20:56:02,482 - root - INFO - Experiment directory created at ./results/033-F16S4-WebVideoImageStage1
+2024-07-17 21:07:04,784 - root - INFO - Training started...
+2024-07-17 21:07:04,791 - root - INFO - Experiment directory created at ./results/034-F16S4-WebVideoImageStage1
+2024-07-17 21:08:17,041 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:08:17,757 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/diffusion_pytorch_model.bin HTTP/1.1" 302 0
+2024-07-17 21:08:17,767 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:08:17,849 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-17 21:08:21,500 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:08:21,573 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/vocab.json HTTP/1.1" 200 0
+2024-07-17 21:08:21,654 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:08:21,727 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-17 21:08:21,734 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:08:21,802 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-17 21:08:52,954 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:08:53,083 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-17 21:08:53,092 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:08:53,163 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-17 21:09:06,100 - root - INFO - Model Parameters: 1,042,210,564
+2024-07-17 21:09:06,916 - root - INFO - Dataset contains 5 videos.
+2024-07-17 21:09:09,772 - root - INFO - Starting Epoch 1/5, remaining_epochs:4
+2024-07-17 21:09:11,311 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:11,311 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:11,320 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:11,320 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:20,861 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:20,868 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:21,461 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:21,470 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:23,161 - root - INFO - Processing batch 1 of epoch 1
+2024-07-17 21:09:23,291 - root - INFO - Data loaded and moved to device
+2024-07-17 21:09:24,266 - root - ERROR - An error occurred at batch 1 of epoch 1: CUDA out of memory. Tried to allocate 1024.00 MiB. GPU 
+2024-07-17 21:09:24,410 - root - INFO - Starting Epoch 2/5, remaining_epochs:3
+2024-07-17 21:09:25,718 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:25,718 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:25,720 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:25,720 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:28,967 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:28,968 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:29,022 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:29,023 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:29,263 - root - INFO - Processing batch 1 of epoch 2
+2024-07-17 21:09:29,306 - root - INFO - Data loaded and moved to device
+2024-07-17 21:09:30,064 - root - ERROR - An error occurred at batch 1 of epoch 2: CUDA out of memory. Tried to allocate 1024.00 MiB. GPU 
+2024-07-17 21:09:30,097 - root - INFO - Starting Epoch 3/5, remaining_epochs:2
+2024-07-17 21:09:30,772 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:30,772 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:30,916 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:30,917 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:31,769 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:31,769 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:32,066 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:32,066 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:32,495 - root - INFO - Processing batch 1 of epoch 3
+2024-07-17 21:09:32,548 - root - INFO - Data loaded and moved to device
+2024-07-17 21:09:33,212 - root - ERROR - An error occurred at batch 1 of epoch 3: CUDA out of memory. Tried to allocate 1024.00 MiB. GPU 
+2024-07-17 21:09:33,253 - root - INFO - Starting Epoch 4/5, remaining_epochs:1
+2024-07-17 21:09:33,615 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:33,616 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:33,635 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:33,635 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:34,386 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:34,386 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:34,485 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:34,485 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:34,608 - root - INFO - Processing batch 1 of epoch 4
+2024-07-17 21:09:34,630 - root - INFO - Data loaded and moved to device
+2024-07-17 21:09:34,949 - root - ERROR - An error occurred at batch 1 of epoch 4: CUDA out of memory. Tried to allocate 1024.00 MiB. GPU 
+2024-07-17 21:09:34,985 - root - INFO - Starting Epoch 5/5, remaining_epochs:0
+2024-07-17 21:09:35,427 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:35,428 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:35,551 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:35,551 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:36,162 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:36,162 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:36,318 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:09:36,318 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:09:36,360 - root - INFO - Processing batch 1 of epoch 5
+2024-07-17 21:09:36,382 - root - INFO - Data loaded and moved to device
+2024-07-17 21:09:36,755 - root - ERROR - An error occurred at batch 1 of epoch 5: CUDA out of memory. Tried to allocate 1024.00 MiB. GPU 
+2024-07-17 21:09:36,808 - root - INFO - Done!
+2024-07-17 21:22:40,883 - root - INFO - Training started...
+2024-07-17 21:22:40,891 - root - INFO - Experiment directory created at ./results/035-F16S4-WebVideoImageStage1
+2024-07-17 21:24:31,240 - root - INFO - Training started...
+2024-07-17 21:24:31,248 - root - INFO - Experiment directory created at ./results/036-F16S4-WebVideoImageStage1
+2024-07-17 21:25:24,448 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:25:24,821 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/diffusion_pytorch_model.bin HTTP/1.1" 302 0
+2024-07-17 21:25:24,831 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:25:24,887 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-17 21:25:27,440 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:25:27,500 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/vocab.json HTTP/1.1" 200 0
+2024-07-17 21:25:27,634 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:25:27,802 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-17 21:25:27,807 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:25:27,870 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-17 21:25:52,774 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:25:52,867 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-17 21:25:52,874 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:25:52,928 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-17 21:26:04,070 - root - INFO - Model Parameters: 1,042,210,564
+2024-07-17 21:26:04,805 - root - INFO - Dataset contains 5 videos.
+2024-07-17 21:26:07,544 - root - INFO - Starting Epoch 1/5, remaining_epochs:4
+2024-07-17 21:26:08,875 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:26:08,879 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:26:09,221 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:26:09,223 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:26:16,008 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:26:16,017 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:26:16,095 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:26:16,100 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:26:19,216 - root - INFO - Processing batch 1 of epoch 1
+2024-07-17 21:26:19,283 - root - INFO - Data loaded and moved to device
+2024-07-17 21:26:20,579 - root - ERROR - An error occurred at batch 1 of epoch 1: CUDA out of memory. Tried to allocate 1024.00 MiB. GPU 
+2024-07-17 21:26:20,796 - root - INFO - Starting Epoch 2/5, remaining_epochs:3
+2024-07-17 21:26:22,270 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:26:22,271 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:26:22,553 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:26:22,554 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:26:25,647 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:26:25,647 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:26:25,670 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:26:25,670 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:26:25,943 - root - INFO - Processing batch 1 of epoch 2
+2024-07-17 21:26:26,004 - root - INFO - Data loaded and moved to device
+2024-07-17 21:26:26,729 - root - ERROR - An error occurred at batch 1 of epoch 2: CUDA out of memory. Tried to allocate 1024.00 MiB. GPU 
+2024-07-17 21:26:26,768 - root - INFO - Starting Epoch 3/5, remaining_epochs:2
+2024-07-17 21:26:27,125 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:26:27,125 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:26:27,307 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:26:27,307 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:26:27,820 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:26:27,820 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:26:28,240 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:26:28,240 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:26:28,775 - root - INFO - Processing batch 1 of epoch 3
+2024-07-17 21:26:28,797 - root - INFO - Data loaded and moved to device
+2024-07-17 21:26:29,521 - root - ERROR - An error occurred at batch 1 of epoch 3: CUDA out of memory. Tried to allocate 1024.00 MiB. GPU 
+2024-07-17 21:26:29,556 - root - INFO - Starting Epoch 4/5, remaining_epochs:1
+2024-07-17 21:26:29,987 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:26:29,988 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:26:30,009 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:26:30,009 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:26:30,901 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:26:30,901 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:26:30,925 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:26:30,925 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:26:31,179 - root - INFO - Processing batch 1 of epoch 4
+2024-07-17 21:26:31,228 - root - INFO - Data loaded and moved to device
+2024-07-17 21:26:31,924 - root - ERROR - An error occurred at batch 1 of epoch 4: CUDA out of memory. Tried to allocate 1024.00 MiB. GPU 
+2024-07-17 21:26:31,961 - root - INFO - Starting Epoch 5/5, remaining_epochs:0
+2024-07-17 21:26:32,362 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:26:32,362 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:26:32,520 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:26:32,521 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:26:33,217 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:26:33,217 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:26:33,547 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 21:26:33,547 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 21:26:33,549 - root - INFO - Processing batch 1 of epoch 5
+2024-07-17 21:26:33,571 - root - INFO - Data loaded and moved to device
+2024-07-17 21:26:34,342 - root - ERROR - An error occurred at batch 1 of epoch 5: CUDA out of memory. Tried to allocate 1024.00 MiB. GPU 
+2024-07-17 21:26:34,454 - root - INFO - Done!
+2024-07-17 21:34:13,199 - root - INFO - Training started...
+2024-07-17 21:34:13,208 - root - INFO - Experiment directory created at ./results/037-F16S4-WebVideoImageStage1
+2024-07-17 21:35:28,099 - root - INFO - Model Parameters after quantization: 712,179,204
+2024-07-17 21:35:28,187 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:35:28,479 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/diffusion_pytorch_model.bin HTTP/1.1" 302 0
+2024-07-17 21:35:28,488 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:35:28,571 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-17 21:35:31,825 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:35:31,907 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/vocab.json HTTP/1.1" 200 0
+2024-07-17 21:35:32,036 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:35:32,121 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-17 21:35:32,126 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:35:32,230 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-17 21:35:55,295 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:35:55,411 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-17 21:35:55,421 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:35:55,504 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-17 21:36:10,506 - root - INFO - Model Parameters: 1,042,210,564
+2024-07-17 21:36:12,269 - root - INFO - Dataset contains 5 videos.
+2024-07-17 21:39:16,956 - root - INFO - Training started...
+2024-07-17 21:39:16,964 - root - INFO - Experiment directory created at ./results/038-F16S4-WebVideoImageStage1
+2024-07-17 21:40:11,308 - root - INFO - Model Parameters after quantization: 712,179,204
+2024-07-17 21:43:59,457 - root - INFO - Training started...
+2024-07-17 21:43:59,466 - root - INFO - Experiment directory created at ./results/039-F16S4-WebVideoImageStage1
+2024-07-17 21:45:19,168 - root - INFO - Training started...
+2024-07-17 21:45:19,180 - root - INFO - Experiment directory created at ./results/040-F16S4-WebVideoImageStage1
+2024-07-17 21:46:26,737 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:46:27,056 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/diffusion_pytorch_model.bin HTTP/1.1" 302 0
+2024-07-17 21:46:27,066 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:46:27,124 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-17 21:46:29,220 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:46:29,269 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/vocab.json HTTP/1.1" 200 0
+2024-07-17 21:46:29,397 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:46:29,449 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-17 21:46:29,454 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:46:29,524 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-17 21:46:51,527 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:46:51,603 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-17 21:46:51,610 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 21:46:51,750 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-17 21:47:03,525 - root - INFO - Model Parameters: 712,179,204
+2024-07-17 21:47:04,240 - root - INFO - Dataset contains 5 videos.

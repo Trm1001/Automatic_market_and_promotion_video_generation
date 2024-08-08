@@ -1,0 +1,91 @@
+2024-07-17 20:44:17,424 - root - INFO - Experiment directory created at ./results/032-F16S4-WebVideoImageStage1
+2024-07-17 20:46:00,774 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 20:46:01,165 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/diffusion_pytorch_model.bin HTTP/1.1" 302 0
+2024-07-17 20:46:01,174 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 20:46:01,268 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /stabilityai/sd-vae-ft-ema/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-17 20:46:04,666 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 20:46:04,806 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/vocab.json HTTP/1.1" 200 0
+2024-07-17 20:46:04,878 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 20:46:04,950 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-17 20:46:04,955 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 20:46:05,062 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-17 20:46:27,330 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 20:46:27,460 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/config.json HTTP/1.1" 200 0
+2024-07-17 20:46:27,467 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): huggingface.co:443
+2024-07-17 20:46:27,567 - urllib3.connectionpool - DEBUG - https://huggingface.co:443 "HEAD /openai/clip-vit-large-patch14/resolve/main/pytorch_model.bin HTTP/1.1" 302 0
+2024-07-17 20:46:36,283 - root - INFO - Model Parameters: 1,042,210,564
+2024-07-17 20:46:37,888 - root - INFO - Dataset contains 5 videos.
+2024-07-17 20:46:39,421 - root - INFO - Starting Epoch 1/5, remaining_epochs:4
+2024-07-17 20:46:53,537 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:46:53,543 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:46:53,537 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:46:53,552 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:01,271 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:01,273 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:01,311 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:01,312 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:02,508 - root - INFO - Processing batch 1 of epoch 1
+2024-07-17 20:47:02,559 - root - INFO - Data loaded and moved to device
+2024-07-17 20:47:03,631 - root - ERROR - An error occurred at batch 1 of epoch 1: CUDA out of memory. Tried to allocate 1024.00 MiB. GPU 
+2024-07-17 20:47:03,768 - root - INFO - Starting Epoch 2/5, remaining_epochs:3
+2024-07-17 20:47:04,265 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:04,265 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:04,424 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:04,424 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:05,113 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:05,113 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:05,499 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:05,499 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:05,960 - root - INFO - Processing batch 1 of epoch 2
+2024-07-17 20:47:06,015 - root - INFO - Data loaded and moved to device
+2024-07-17 20:47:06,083 - root - ERROR - An error occurred at batch 1 of epoch 2: CUDA error: out of memory
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1.
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-07-17 20:47:06,118 - root - INFO - Starting Epoch 3/5, remaining_epochs:2
+2024-07-17 20:47:06,525 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:06,525 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:06,702 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:06,703 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:07,508 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:07,508 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:07,825 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:07,825 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:08,338 - root - INFO - Processing batch 1 of epoch 3
+2024-07-17 20:47:08,360 - root - ERROR - An error occurred at batch 1 of epoch 3: CUDA error: out of memory
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1.
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-07-17 20:47:08,399 - root - INFO - Starting Epoch 4/5, remaining_epochs:1
+2024-07-17 20:47:08,778 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:08,778 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:08,799 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:08,799 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:09,654 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:09,654 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:09,766 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:09,767 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:10,059 - root - INFO - Processing batch 1 of epoch 4
+2024-07-17 20:47:10,070 - root - ERROR - An error occurred at batch 1 of epoch 4: CUDA error: out of memory
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1.
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-07-17 20:47:10,187 - root - INFO - Starting Epoch 5/5, remaining_epochs:0
+2024-07-17 20:47:10,704 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:10,705 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:10,868 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:10,869 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:11,518 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:11,518 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:11,776 - PIL.PngImagePlugin - DEBUG - STREAM b'IHDR' 16 13
+2024-07-17 20:47:11,776 - PIL.PngImagePlugin - DEBUG - STREAM b'IDAT' 41 8192
+2024-07-17 20:47:11,823 - root - INFO - Processing batch 1 of epoch 5
+2024-07-17 20:47:11,834 - root - ERROR - An error occurred at batch 1 of epoch 5: CUDA error: out of memory
+CUDA kernel errors might be asynchronously reported at some other API call, so the stacktrace below might be incorrect.
+For debugging consider passing CUDA_LAUNCH_BLOCKING=1.
+Compile with `TORCH_USE_CUDA_DSA` to enable device-side assertions.
+
+2024-07-17 20:47:12,091 - root - INFO - Done!
